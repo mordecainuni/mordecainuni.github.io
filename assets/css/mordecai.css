@@ -61,6 +61,7 @@
 }
 .quote
 {
+	color: white;
 	width: 360px; padding: 0 0 0 15px; margin: 100px 1000px 10px auto !important; 
 	font-size: 25px;
 	font-family:'https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css','https://fonts.googleapis.com/css?family=Ubuntu:400,500' rel='stylesheet' type='text/css'>',Helvetica','Muli','Helvetica Neue-Light',sans-serif;
