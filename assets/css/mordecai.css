@@ -1,13 +1,13 @@
 .links 
 {
-	color: darkblue;
+	color: skyblue;
 	font-size: medium;
 	text-decoration: none;
 	
 }
 .p
 {
-	color: black;
+	color: white;
 	font-family:'https://fonts.googleapis.com/css?family=Oxygen:400,300','Segoe UI' ,'Helvetica','Muli','Helvetica Neue-Light',sans-serif;
 	font-size: 17px;
 	text-align: left;
@@ -16,7 +16,7 @@
 }
 .p1
 {
-	color: black;
+	color: white;
 	font-family:'https://fonts.googleapis.com/css?family=Oxygen:400,300','Segoe UI' ,'Helvetica','Muli','Helvetica Neue-Light',sans-serif;
 	font-size: 21px;
 	text-align: left;
