@@ -30,9 +30,22 @@
 	font-size: 48px;
 
 }
+
+.greeting
+{
+	position: absolute;
+    top: 10px;
+    left: 20px;
+    background-color: rgba(0, 0, 0, .3);
+    padding: 10px 40px;
+    color: #fff;
+}
+
 .description
 {
- width: 360px; padding: 0 0 0 10px; margin: -105px 30px 0 auto !important; 
+ width: 360px; padding: 0 0 0 10px; margin: 0 30px 0 auto !important;
+ background-color: rgba(0, 0, 0, .5);
+ padding: 20px;
 }
 .body
 {
@@ -48,12 +61,13 @@
 }
 .quote
 {
-	width: 360px; padding: 0 0 0 15px; margin: 100px 1000px 0 auto !important; 
-	font-size: 22px;
-	font-family:'Helvetica','Muli','Helvetica Neue-Light',sans-serif;
-	font-style: italic
+	width: 360px; padding: 0 0 0 15px; margin: 100px 1000px 10px auto !important; 
+	font-size: 25px;
+	font-family:'https://fonts.googleapis.com/css?family=Great+Vibes' rel='stylesheet' type='text/css','https://fonts.googleapis.com/css?family=Ubuntu:400,500' rel='stylesheet' type='text/css'>',Helvetica','Muli','Helvetica Neue-Light',sans-serif;
+	background-color: rgba(0, 0, 0, .5);
+    padding: 0 10px;
 }
 .icons
 {
-	width: 25px; padding: 0 0 0 0; margin: 0 auto 0 30px;
+	width: 25px; padding: 0 0 0 0; margin: 0 auto 0 20px;
 }
